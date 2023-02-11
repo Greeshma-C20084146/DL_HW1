@@ -1,4 +1,3 @@
-# DL_HW1
 # Homework 1
 ##### Python code included in Homework 1 illustrates a few of the core Deep Learning ideas.
 ##### Function Simulating simulated a sin function and built multi-layer neural network models.
